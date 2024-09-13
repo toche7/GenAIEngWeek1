@@ -1,4 +1,6 @@
 
+# Lab 1: Basic Python
+
 # what should i demo here?
 # 1. print statement
  
@@ -7,12 +9,3 @@
 # 4. for loop
 # 5. while loop
 # 6. function
- 
-
-
-
-
-
-
-
-
